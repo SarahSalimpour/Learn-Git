@@ -6,7 +6,7 @@ from check_results import check_results
 def play():
     print('''
     ---------------------------------
-    Welcome to Rock, Paper, Scissors.
+    Welcome to Rock, Paper, Scissors
     Please pick your weapon.
     ''')
 
